@@ -1,0 +1,98 @@
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\bin\Debug\net10.0\appsettings.Development.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\bin\Debug\net10.0\appsettings.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\bin\Debug\net10.0\New Demo Project.staticwebassets.runtime.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\bin\Debug\net10.0\New Demo Project.staticwebassets.endpoints.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\bin\Debug\net10.0\New Demo Project.exe
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\bin\Debug\net10.0\New Demo Project.deps.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\bin\Debug\net10.0\New Demo Project.runtimeconfig.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\bin\Debug\net10.0\New Demo Project.dll
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\bin\Debug\net10.0\New Demo Project.pdb
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.AssemblyInfoInputs.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.AssemblyInfo.cs
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.csproj.CoreCompileInputs.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.MvcApplicationPartsAssemblyInfo.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.RazorAssemblyInfo.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.RazorAssemblyInfo.cs
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\scopedcss\bundle\New Demo Project.styles.css
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\scopedcss\projectbundle\New Demo Project.bundle.scp.css
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\4rr42q8cnz-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\o7mu69m7by-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\jnclx04jfw-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\9img0jbtwy-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\d1jgtdeprj-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\d49ux2kobh-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\jfalt2gcnu-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\3ptfxdyp5d-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\6jto5gj8iw-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\e766iuqdrl-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\5nu4ev0g9y-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\85n7lr90l1-{0}-ub07r2b239-ub07r2b239.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\4qb7j677pz-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\mhnmz9wow4-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\vou29fcyk9-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\d8qupm3y1s-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\sg5jtzy16s-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\2qsihzuno4-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\w3d7tati68-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\g5q0svyrpt-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\klixceswnu-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\tsvzkej2w1-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\75cv81u95p-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\7djoracnyz-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\vz1enrhoj8-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\kylqkhu0fj-{0}-06098lyss8-06098lyss8.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\7y0dpderjj-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\3t2t6k1mgc-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\2f2cm2hyjo-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\kwq5v4j8oc-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\rb5rb0ps6z-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\v3zbi1isk5-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\u01c8mljfm-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\koa157aait-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\gklcfbnshb-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\a2jz3uasid-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\v7y0v3lw23-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\lcpl89oziy-{0}-493y06b0oq-493y06b0oq.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\1o5e14g2oe-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\ccc3fbtpcs-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\h1ybxzbloz-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\deb61khwik-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\1c13o5nlcc-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\x1978e5mm7-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\pkkka7dky6-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\udwbimz88n-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\bxwgfm16ez-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\15ixl8wfn1-{0}-47otxtyo56-47otxtyo56.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\xxz9fds3ur-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\i8gng1fv4o-{0}-356vix0kms-356vix0kms.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\sa57t5lfav-{0}-83jwlth58m-83jwlth58m.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\vt5hdxsgdc-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\6bgskmi7l3-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\k335eafygh-{0}-ag7o75518u-ag7o75518u.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\mrj6vow3ix-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\ezj63f3ddj-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\lrix3rhwzx-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\udph4i8vab-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\e877xq14u9-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\ohluusf7js-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\8oh3wm5p8a-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\iy57r3fb7j-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\x3ippjlbd3-{0}-643i9fzi6e-643i9fzi6e.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\compressed\kc91obd88j-{0}-643i9fzi6e-643i9fzi6e.gz
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\staticwebassets.build.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\staticwebassets.development.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\swae.build.ex.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.dll
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\refint\New Demo Project.dll
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.pdb
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\New Demo Project.genruntimeconfig.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\obj\Debug\net10.0\ref\New Demo Project.dll
