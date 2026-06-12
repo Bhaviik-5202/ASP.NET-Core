@@ -12,3 +12,18 @@ D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\Lab_01 Basic\obj\De
 D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.pdb
 D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.genruntimeconfig.cache
 D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\Lab_01 Basic\obj\Debug\net10.0\ref\Lab_01 Basic.dll
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\bin\Debug\net10.0\Lab_01 Basic.exe
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\bin\Debug\net10.0\Lab_01 Basic.deps.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\bin\Debug\net10.0\Lab_01 Basic.runtimeconfig.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\bin\Debug\net10.0\Lab_01 Basic.dll
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\bin\Debug\net10.0\Lab_01 Basic.pdb
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.AssemblyInfoInputs.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.AssemblyInfo.cs
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.csproj.CoreCompileInputs.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.sourcelink.json
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.dll
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\refint\Lab_01 Basic.dll
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.pdb
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\Lab_01 Basic.genruntimeconfig.cache
+D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\Lab_01 Basic\obj\Debug\net10.0\ref\Lab_01 Basic.dll

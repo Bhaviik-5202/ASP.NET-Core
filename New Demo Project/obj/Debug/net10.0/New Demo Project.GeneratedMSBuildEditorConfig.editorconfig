@@ -12,41 +12,41 @@ build_property.EntryPointFilePath =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = New_Demo_Project
 build_property.RootNamespace = New_Demo_Project
-build_property.ProjectDir = D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project\
+build_property.ProjectDir = D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\New Demo Project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\.NET Lab Solution\New Demo Project
+build_property.MSBuildProjectDirectory = D:\CSE Sem-5 (A-A2) Subject\(NET) ASP .NET\ASP.NET Core Lab Solution\New Demo Project
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/.NET Lab Solution/New Demo Project/Views/Home/Index.cshtml]
+[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/ASP.NET Core Lab Solution/New Demo Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/.NET Lab Solution/New Demo Project/Views/Home/Privacy.cshtml]
+[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/ASP.NET Core Lab Solution/New Demo Project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/.NET Lab Solution/New Demo Project/Views/Shared/Error.cshtml]
+[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/ASP.NET Core Lab Solution/New Demo Project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/.NET Lab Solution/New Demo Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/ASP.NET Core Lab Solution/New Demo Project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/.NET Lab Solution/New Demo Project/Views/_ViewImports.cshtml]
+[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/ASP.NET Core Lab Solution/New Demo Project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/.NET Lab Solution/New Demo Project/Views/_ViewStart.cshtml]
+[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/ASP.NET Core Lab Solution/New Demo Project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/.NET Lab Solution/New Demo Project/Views/Shared/_Layout.cshtml]
+[D:/CSE Sem-5 (A-A2) Subject/(NET) ASP .NET/ASP.NET Core Lab Solution/New Demo Project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lun91jiuc4

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\.NET Lab Solution\\New Demo Project\\New Demo Project.csproj": {}
+    "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\ASP.NET Core Lab Solution\\New Demo Project\\New Demo Project.csproj": {}
   },
   "projects": {
-    "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\.NET Lab Solution\\New Demo Project\\New Demo Project.csproj": {
+    "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\ASP.NET Core Lab Solution\\New Demo Project\\New Demo Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\.NET Lab Solution\\New Demo Project\\New Demo Project.csproj",
+        "projectUniqueName": "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\ASP.NET Core Lab Solution\\New Demo Project\\New Demo Project.csproj",
         "projectName": "New Demo Project",
-        "projectPath": "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\.NET Lab Solution\\New Demo Project\\New Demo Project.csproj",
+        "projectPath": "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\ASP.NET Core Lab Solution\\New Demo Project\\New Demo Project.csproj",
         "packagesPath": "C:\\Users\\Bhaviik Parmar\\.nuget\\packages\\",
-        "outputPath": "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\.NET Lab Solution\\New Demo Project\\obj\\",
+        "outputPath": "D:\\CSE Sem-5 (A-A2) Subject\\(NET) ASP .NET\\ASP.NET Core Lab Solution\\New Demo Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

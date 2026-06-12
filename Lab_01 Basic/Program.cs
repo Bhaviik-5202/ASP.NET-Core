@@ -33,7 +33,7 @@ class Task2
     static void Main()
     {
         Console.WriteLine("Enter String : ");
-        string word = Console.ReadLine();
+        string word = Console.ReadLine() ?? ""; // Handle null input
         string s2 = "";
 
         foreach (char i in word)
@@ -62,10 +62,10 @@ class Task3
     static void Main()
     {
         Console.WriteLine("Enter String1 : ");
-        string s1 = Console.ReadLine();
+        string s1 = Console.ReadLine() ?? ""; // Handle null input
 
         Console.WriteLine("Enter String2 : ");
-        string s2 = Console.ReadLine();
+        string s2 = Console.ReadLine() ?? ""; // Handle null input
 
         if (s1.Contains(s2))
         {
@@ -115,7 +115,7 @@ class Task4
 }
 
 // 5. Write a program to create a Simple Calculator for two numbers
-(Addition, Multiplication, Subtraction, Division)[using elseif ladder &Switch Case]
+// (Addition, Multiplication, Subtraction, Division)[using elseif ladder &Switch Case]
 class Task5
 {
     static void Main()
@@ -216,14 +216,13 @@ class Task7
 }
 
 // 8. Write a program which find out the first and last occurrence of a character
-and then replace that character with ‘D’.
+// and then replace that character with ‘D’.
 class Task8
 {
     static void Main()
     {
         Console.Write("Enter a String: ");
-        //string str = Console.ReadLine();
-        string str = "banana";
+        string str = Console.ReadLine() ?? ""; // Handle null input
 
         Console.Write("Enter Character To Find: ");
         char ch = Console.ReadKey().KeyChar;
@@ -251,7 +250,7 @@ class ArrayToDo
     static void Main()
     {
 
-        int[] arr = null;
+        int[] arr = {};
         int size;
 
         while (true)
